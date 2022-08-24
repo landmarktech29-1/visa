@@ -3,3 +3,4 @@
 #= shell scri#t
 print ('Hello World')
 #=python script
+# bug removed 
