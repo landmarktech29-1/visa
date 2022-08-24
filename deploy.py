@@ -4,3 +4,5 @@
 print ('Hello World')
 #=python script
 # bug removed 
+print ("car services automated")
+print ("Hello $user your car needs servicing")
