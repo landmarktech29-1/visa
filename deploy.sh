@@ -9,3 +9,4 @@ echo good job
 Tested and accepted 
 deploy 
 deployment4
+deploy from Jboss
